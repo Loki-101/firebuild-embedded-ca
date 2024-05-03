@@ -1,4 +1,4 @@
-module github.com/combust-labs/firebuild-embedded-ca
+module github.com/Loki-101/firebuild-embedded-ca
 
 go 1.21.9
 
