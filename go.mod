@@ -1,6 +1,6 @@
 module github.com/combust-labs/firebuild-embedded-ca
 
-go 1.16
+go 1.21.9
 
 require (
 	github.com/hashicorp/go-hclog v0.15.0
